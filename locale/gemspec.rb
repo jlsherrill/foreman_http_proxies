@@ -1,2 +1,2 @@
-# Matches foreman_plugin_template.gemspec
-_('TODO: Description of ForemanPluginTemplate.')
+# Matches foreman_http_proxies.gemspec
+_('TODO: Description of ForemanHttpProxies.')

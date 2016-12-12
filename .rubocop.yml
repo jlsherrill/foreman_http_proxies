@@ -13,7 +13,7 @@ Metrics/MethodLength:
   Max: 20
 
 Metrics/LineLength:
-  Max: 111 # TODO: discuss and set this
+  Max: 121 # TODO: discuss and set this
 
 Style/Next:
   Enabled: false
